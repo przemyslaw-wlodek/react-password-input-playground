@@ -6,6 +6,13 @@ It tries to show different variations of password inputs that could be implement
 
 [Watch the Tech talk](https://around.co/playback/24efb388-9831-4f45-9542-6aac2bc8b2d4?sharedKey=ee355d87-de3e-40f1-af87-7b3e0bca7f05) (requires access rights)
 
+> [!NOTE]
+> Related issues:
+>
+> - https://github.com/facebook/react/issues/23214
+> - https://github.com/facebook/react/issues/17581
+> - https://issues.chromium.org/issues/40109482
+
 There are 2 branches: `main` and `react17` (current Lace)
 
 > [!IMPORTANT]
